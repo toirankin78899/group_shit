@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient( red, orange, white);
+    background-image: linear-gradient( rgb(255, 86, 86), rgb(103, 156, 255), white) ;
     font-family: Arial, Helvetica, sans-serif;
     width: 100vh;
 }
