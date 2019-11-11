@@ -1,0 +1,5 @@
+body{
+    background-image: linear-gradient( red, orange, white);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100vh;
+}
